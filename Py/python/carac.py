@@ -1,0 +1,12 @@
+nom='Jalal'
+age=21
+taille=1.80
+est_etudiant=False
+print(nom)
+print(age)
+print(taille)
+print(est_etudiant)
+print(type(nom))
+print(type(age))
+print(type(taille))
+print(type(est_etudiant))
